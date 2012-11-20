@@ -1,0 +1,13 @@
+C:\projects\ListBoxDemo\ListBoxDemo\bin\Debug\ListBoxDemo.exe.config
+C:\projects\ListBoxDemo\ListBoxDemo\bin\Debug\ListBoxDemo.exe
+C:\projects\ListBoxDemo\ListBoxDemo\bin\Debug\ListBoxDemo.pdb
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo.csprojResolveAssemblyReference.cache
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\MainWindow.baml
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\MainWindow.g.cs
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\App.g.cs
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo_MarkupCompile.cache
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo.g.resources
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo.Properties.Resources.resources
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo.csproj.GenerateResource.Cache
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo.exe
+C:\projects\ListBoxDemo\ListBoxDemo\obj\Debug\ListBoxDemo.pdb
