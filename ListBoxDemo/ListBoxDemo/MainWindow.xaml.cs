@@ -26,7 +26,7 @@ namespace ListBoxDemo
             InitializeComponent();
 
             TestData = new ObservableCollection<Data>();
-            TestData.Add(new Data() { Name = "John Brown", Notes = "These are the notes for John Brown.", When = DateTime.Today.AddDays(2) });
+            TestData.Add(new Data() { Name = "Jackie Brown", Notes = "These are the notes for John Brown.", When = DateTime.Today.AddDays(2) });
             TestData.Add(new Data() { Name = "Sally Brown", Notes = "These are the notes for John Brown.", When = DateTime.Today.AddDays(2) });
             TestData.Add(new Data() { Name = "John Smith", Notes = "These are the notes for John Brown.", When = DateTime.Today.AddDays(2) });
             TestData.Add(new Data() { Name = "John Doe", Notes = "These are the notes for John Brown.", When = DateTime.Today.AddDays(2) });
