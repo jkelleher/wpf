@@ -10,7 +10,7 @@
 
             <Setter
                 Property="Background"
-                Value="Lime" />
+                Value="LightCyan" />
 
         </Style>
     </Window.Resources>
